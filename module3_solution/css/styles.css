@@ -1,0 +1,33 @@
+/**Navbar**/
+.navbar {
+		background-color: #d1d3d6;
+}
+.navbar .container{
+	margin-left: 0;
+	margin-right: 0;
+}
+/** Navbar Brand**/
+.navbar-brand {
+	text-shadow: 1px 1px 1px #222;
+	font-size: 2em;
+	color: #ffffff;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+
+/** Navbar list**/
+#nav-list {
+	background-color: #9296a0;
+}
+#nav-list a{
+	text-align: center;
+	font-size: 2em;
+	color: #ffffff;
+}
+
+/**Content**/
+#Entrees, #Soups , #Sides {
+	background-color: #9296a0;
+	padding-top: 20px;
+}
